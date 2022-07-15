@@ -1,2 +1,1 @@
-# tinDog-website
-website training result-bootstrap
+TinDog Starting Files
